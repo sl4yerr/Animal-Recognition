@@ -18,7 +18,7 @@
 ✅ PIL (Pillow) (for image handling)
 
 📂 Project Structure
-Animal-Recognition-Chatbot/
+Animal-Recognition/
 │── models/               # Trained model files  
 │── dataset/              # Sample dataset (if included)  
 │── src/                  # Source code  
@@ -34,7 +34,7 @@ Animal-Recognition-Chatbot/
 🚀 Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/Animal-Recognition-Chatbot.git
-cd Animal-Recognition-Chatbot
+cd Animal-Recognition
 
 2️⃣ Install Dependencies
 pip install -r requirements.txt
