@@ -23,7 +23,6 @@ Animal-Recognition-Chatbot/
 │── dataset/              # Sample dataset (if included)  
 │── src/                  # Source code  
 │   ├── vision_transformer.py  # ViT model  
-│   ├── chatbot.py             # NLP chatbot  
 │   ├── inference.py           # Image classification  
 │   ├── train.py               # Training script  
 │── requirements.txt      # Dependencies  
