@@ -45,8 +45,6 @@ python train.py
 4️⃣ Test Image Classification
 python inference.py --image sample.jpg
 
-5️⃣ Chatbot Interaction
-python chatbot.py
 
 📊 Model Evaluation
 python evaluate.py
