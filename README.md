@@ -1,5 +1,11 @@
 # Animal-Recognition
 
+⚠️ ⚠️⚠️⚠️⚠️ Most the files here
+it rest the "data" and "code" files you can find it in my drive links : https://drive.google.com/drive/folders/1Qs4_CwOBeYKIeJo2ERN2kZrXZ0Ug07V-?usp=sharing
+"download all the file because it has everything"
+
+
+
 🐶🐱 Animal Recognition & Chatbot using Vision Transformers
 🚀 Deep Learning-powered image classifier that identifies whether an image contains a dog or cat using Vision Transformers. 
 
