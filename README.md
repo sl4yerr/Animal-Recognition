@@ -1,7 +1,6 @@
 # Animal-Recognition
 
-⚠️ ⚠️⚠️⚠️⚠️ Most the files here
-vit_model files you can find it in my drive links : https://drive.google.com/drive/folders/1Qs4_CwOBeYKIeJo2ERN2kZrXZ0Ug07V-?usp=sharing
+⚠️ ⚠️⚠️⚠️⚠️ Most the files here files you can find it in my drive links "Format zip for 'Animal_dataset' & 'vit_model' & 'the code python' " : https://drive.google.com/drive/folders/1-9O1tVvN1U1fdPU0BB-PBp1eu0fyBncv?usp=sharing
 "download all the file because it has everything"
 
 
