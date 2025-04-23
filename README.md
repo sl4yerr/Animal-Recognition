@@ -1,7 +1,7 @@
 # Animal-Recognition
 
 ⚠️ ⚠️⚠️⚠️⚠️ Most the files here
-it rest the "data" and "code" files you can find it in my drive links : https://drive.google.com/drive/folders/1Qs4_CwOBeYKIeJo2ERN2kZrXZ0Ug07V-?usp=sharing
+vit_model files you can find it in my drive links : https://drive.google.com/drive/folders/1Qs4_CwOBeYKIeJo2ERN2kZrXZ0Ug07V-?usp=sharing
 "download all the file because it has everything"
 
 
